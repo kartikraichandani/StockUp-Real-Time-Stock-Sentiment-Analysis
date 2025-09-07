@@ -1,15 +1,14 @@
-# 📈 StockUp – Real-Time Stock Prediction with Sentiment Analysis
+# Real-Time Stock Prediction with Sentiment Analysis
 
-This application predicts and analyzes stock market trends in real-time using sentiment analysis from **news articles** and **Twitter data**.
+This application predicts stock prices in real-time using sentiment analysis from news articles and Twitter.
 
----
+## Features
 
-## ✨ Features
-- 📊 Real-time stock price visualization  
-- 📰 Sentiment analysis from financial news  
-- 🐦 Sentiment analysis from Twitter  
-- 🔎 Combined sentiment score for better insights  
-- 🎯 Interactive Streamlit dashboard 
+- Real-time stock price visualization
+- Sentiment analysis from news articles
+- Sentiment analysis from Twitter
+- Combined sentiment score
+- Interactive dashboard
 
 ## Setup
 
